@@ -20,7 +20,7 @@ export default function Home() {
             />
             <h1 className={styles.heading2Xl}>Rajat Gupta</h1>
        <section className={styles.headingMd}>
-       <p>Hello, I'm Rajat. A web developer based in Delhi, India. </p>
+       <p>Hello, I&apos;m Rajat. A web developer based in Delhi, India. </p>
        <p>
         Currently, building modern intranet at  <a href={simpplrUrl} target="_blank" rel="noopener noreferrer">Simpplr</a>. Previously, developed live classes at  <a href={unacademyUrl} target="_blank" rel="noopener noreferrer">Unacademy</a>. Passionate about creating engaging and user-friendly digital experiences.  </p>
        </section>
